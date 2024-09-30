@@ -1,5 +1,5 @@
 # 💫 About Me: 
-<br><br>💻 Hey there! I’m Ayesha Siddiqua, your friendly tech enthusiast on a journey to "Euphoria"! 🚀
+<br><br>💻 Hey there! I’m Ayesha Siddiqua, your friendly tech enthusiast on a journey to "Euphoria"! 🚀💜
 
 Welcome to my GitHub! I’m excited to share my coding adventures with you. As a passionate software developer, I draw inspiration from the incredible journey of BTS. Like in Epiphany, I’ve learned to embrace my strengths, tackle challenges head-on, and constantly evolve into the best version of myself. Coding isn’t just a profession for me; it’s a calling that fuels my creativity and curiosity.
 
