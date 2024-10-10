@@ -1,4 +1,4 @@
-# 💫 About Me: 💻 Hey there! I’m Ayesha Siddiqua, and I’m all about using tech to make a difference! 🚀
+# 💫 Hey there! I’m Ayesha Siddiqua, and I’m all about using tech to make a difference! 🚀
 <br> Welcome to my GitHub! I’m so glad you stopped by. As a software developer, I find a lot of inspiration in the energy and creativity that BTS brings to their music. Just like in Not Today, I believe in facing challenges with determination and never backing down, no matter what comes my way.
 
 My coding journey has been a wild ride! Whether I’m building back-end systems with Spring Boot, containerizing apps with Docker, or diving into green tech projects, I’m all about creating user experiences that leave a lasting impact. For me, coding isn’t just about writing code; it’s like crafting my own Magic Shop ✨ where ideas come to life and solutions to real problems emerge.
