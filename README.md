@@ -3,12 +3,12 @@
 
 My coding journey has been a wild ride! Whether I’m building back-end systems with Spring Boot, containerizing apps with Docker, or diving into green tech projects, I’m all about creating user experiences that leave a lasting impact. For me, coding isn’t just about writing code; it’s like crafting my own Magic Shop ✨ where ideas come to life and solutions to real problems emerge.
 
-I’ve had the chance to work in some fascinating fields, from banking and travel to sustainability. Each role has taught me something new and helped me grow both personally and professionally. My GitHub repositories reflect not just my technical skills but also the journey I’ve been on—full of learning, teamwork, and a sprinkle of fun!
+I’ve had the chance to work in some fascinating fields, from banking, travel to sustainability and now Game development. Each role has taught me something new and helped me grow both personally and professionally. My GitHub repositories reflect not just my technical skills but also the journey I’ve been on—full of learning, teamwork, and a sprinkle of fun!
 
 Like Spring Day teaches us, hard work truly pays off, and I’m all about embracing that journey. Every project I take on is a chance to grow, whether I’m enhancing security features or hosting tech workshops to inspire others. I love collaborating with people who are just as passionate about technology as I am, and I’m always eager to explore new ideas.
 
 If you’re interested in my work or just want to chat about tech, feel free to reach out at ayesha.2023.siddiqua@gmail.com 
-<br>I’d love to connect and see how we can create something amazing together! 💜 Borahae! 🌌
+<br>I’d love to connect and see how we can create something amazing together! 💜 
 
 
 
