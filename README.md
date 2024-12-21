@@ -1,25 +1,25 @@
 # 👋 Welcome to My GitHub!
 Hi there! I’m Ayesha Siddiqua, a passionate software developer with a love for tackling challenges and turning ideas into impactful solutions. Whether I’m building robust back-end systems with Spring Boot, containerizing applications with Docker, or diving into green tech projects, I strive to create user experiences that are as functional as they are meaningful.
 
-# 🌟 My Coding Journey
+**🌟 My Coding Journey**
 My journey through technology has been anything but ordinary! I’ve had the privilege of working in exciting domains like banking, travel, sustainability, and even game development. These experiences have shaped my technical skills and given me a deep appreciation for collaboration, innovation, and continuous learning.
 
-# Some highlights of my work:
+**Some highlights of my work:**
 
 Designing and developing scalable applications that solve real-world problems.
 Hosting workshops and inspiring others to explore technology, particularly in fields like cybersecurity.
 Leading impactful projects like Green Conscious, a sustainability-focused platform for green technology events.
 
-# 🚀 What Drives Me
+**🚀 What Drives Me**
 For me, coding isn’t just about solving problems—it’s about creating something meaningful that leaves a lasting impact. Every project is a chance to grow, and I embrace challenges with determination and creativity. My GitHub repositories reflect not only my technical expertise but also my journey as a lifelong learner and collaborator.
 
-# 🤝 Let’s Collaborate!
+**🤝 Let’s Collaborate!**
 I love connecting with others who share a passion for technology and innovation. Whether you’re interested in exploring my work, brainstorming ideas, or collaborating on a project, I’d be thrilled to hear from you.
 
 📫 ayeshas@uwindsor.ca
 🔗 LinkedIn
 
-# 🌱 Beyond Tech
+**🌱 Beyond Tech**
 When I’m not coding, you might find me advocating for sustainability, experimenting with new ideas, or learning something new to stay curious and inspired.
 
 
