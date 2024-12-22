@@ -19,9 +19,6 @@ For me, coding isn’t just about solving problems—it’s about creating somet
 
 I love connecting with others who share a passion for technology and innovation. Whether you’re interested in exploring my work, brainstorming ideas, or collaborating on a project, I’d be thrilled to hear from you.
 
-📫 ayeshas@uwindsor.ca
-🔗 LinkedIn
-
 **🌱 Beyond Tech**
 
 When I’m not coding, you might find me advocating for sustainability, experimenting with new ideas, or learning something new to stay curious and inspired.
