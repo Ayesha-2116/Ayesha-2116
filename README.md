@@ -8,12 +8,15 @@
 
 <h1>About Me ✍️</h1>
 <ul>
-  <li>🔭 I am a Software Developer with experience in <b>Java</b>, <b>Spring Boot</b>, <b>Microservices</b>, and <b>Full-Stack Development</b>.</li>
-  <li>🌱 Currently working with <b>MongoDB</b>, <b>Django</b>, and enhancing skills in <b>Cloud Computing</b> and <b>DevOps</b>.</li>
-  <li>🎓 Pursuing my <b>Master of Applied Computing</b> at the <b>University of Windsor, Canada</b>, with a Bachelor's degree in <b>Information Science and Engineering</b>.</li>
-  <li>💡 I am passionate about <b>building scalable web applications</b>, optimizing <b>backend performance</b>, and exploring <b>AI-driven automation</b>.</li>
-  <li>👯 Looking to collaborate on <b>Software Development</b>, <b>Agile projects</b>, and <b>AI-based applications</b>.</li>
+  <li>🔭 I am a passionate Software Developer with a strong background in <b>Java</b>, <b>Python</b>, and <b>Web Development</b>.</li>
+  <li>🌱 Currently refining my skills in <b>SpringBoot</b>, <b>Docker</b>, <b>Kubernetes</b>, and <b>Cloud Technologies</b> like <b>AWS</b> and <b>Microsoft Azure</b>.</li>
+  <li>🎓 I have completed my <b>Master of Applied Computing</b> at the <b>University of Windsor, Canada</b>, and I hold a <b>Bachelor's in Information Science and Engineering</b> from <b>Siddaganga Institute of Technology, India</b>.</li>
+  <li>💡 I specialize in building scalable <b>web applications</b>, automating <b>CI/CD pipelines</b>, and implementing <b>Agile practices</b> in development.</li>
+  <li>🔐 Passionate about <b>Cybersecurity</b>, I actively engage in security workshops, and I am dedicated to ensuring robust security practices in software development and cloud environments.</li>
+  <li>🌍 Enthusiastic about <b>Green Technology</b> and <b>Sustainability</b>, I strive to design solutions that contribute to a greener and more sustainable future through technology.</li>
+  <li>👯 Looking to collaborate on projects involving <b>Software Development</b>, <b>Cloud Solutions</b>, <b>Machine Learning</b>, <b>Cybersecurity</b>, <b>Green Technology</b>, and <b>Agile Methodologies</b> to solve real-world problems.</li>
 </ul>
+
 
 <h3>💬 Feel free to reach out for collaboration or project discussions!</h3>
 
