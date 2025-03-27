@@ -19,8 +19,8 @@
 
 <h1>Hobbies 🌝</h1>
 <ul>
-  <li>📖 I enjoy reading books on <b>Agile Leadership</b> and <b>Software Architecture</b>.</li>
-  <li>🌱 Passionate about <b>sustainability</b> and <b>green technology initiatives</b>.</li>
+  <li>📖 I enjoy painting, cycling, cooking and watching TV shows/movies. </li>
+  <li>🌱 Always up for any kind of creative activties, Hit me up if you're too ! </li>
 </ul>
 
 <br>
@@ -30,27 +30,61 @@
   <a href="mailto:ayeshas@uwindsor.ca" title="Email">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="[LinkedIn Profile]" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/ayesha-siddiqua-38ba5b166/" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="[GitHub Profile]" title="GitHub">
+  <a href="https://github.com/Ayesha-2116" title="GitHub">
      <img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </h2>
 
-<h1 align="center">Skills & Tools</h1>
-<p align="center" float="left">
+---
+
+## 🛠️ Technologies & Tools  
+
+### **👨‍💻 Programming Languages**
+<p align="left">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### **🌐 Web & Frameworks**
+<p align="left">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### **💾 Databases**
+<p align="left">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+### **☁️ Cloud & DevOps**
+<p align="left">
+  <img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+
+### **🛡️ Testing & Security**
+<p align="left">
+  <img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white"/>
+  <img alt="Mockito" src="https://img.shields.io/badge/Mockito-5A20E9?style=for-the-badge&logo=mockito&logoColor=white"/>
+  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+</p>
+
+---
 
 <h1 align="center">Stats & Projects</h1>
 <p align="center">
