@@ -41,7 +41,6 @@
   </a>
 </h2>
 
----
 
 <h1 align="center">Programming Languages</h1>
 <p align="center">
@@ -84,8 +83,6 @@
   <img alt="Mockito" src="https://img.shields.io/badge/Mockito-5A20E9?style=for-the-badge&logo=mockito&logoColor=white"/>
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 </p>
-
----
 
 <h1 align="center">Stats & Projects</h1>
 <p align="center">
